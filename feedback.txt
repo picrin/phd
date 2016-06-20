@@ -1,0 +1,19 @@
+
+talk less about complex disease.
+-omics (?) proteomics transcriptomics (!) (how much RNA per cell) metabolomics genomics microarray (what we do with the data)
+
+individual specific effects.  
+
+1) Single gene disorder (single mutation determine)
+2) tandem repeat (sequence of the repeat varied)
+3) other genes affect + environment
+4) group of people with the disease (case/control).
+5) RNA
+6) residual
+7) look elswhere effect?
+8) Explaining is a challenge
+9) Factour out STR, still effects visible.
+   -- expression level changes.
+   -- more genes relevant to MD
+10) half accounting for the noise
+11) why is noise there?
